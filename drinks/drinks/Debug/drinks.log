@@ -1,0 +1,12 @@
+﻿  AlcoholDrinks.cpp
+  ColdDrinks.cpp
+  Drink.cpp
+  drinks.cpp
+C:\Users\Zauri\source\repos\drinks\drinks\drinks.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\drinks\drinks\drinks.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\drinks\drinks\drinks.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\drinks\drinks\drinks.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\drinks\drinks\drinks.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\drinks\drinks\drinks.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  drinks.vcxproj -> C:\Users\Zauri\source\repos\drinks\Debug\drinks.exe
