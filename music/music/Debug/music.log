@@ -1,0 +1,5 @@
+﻿  music.cpp
+C:\Users\Zauri\source\repos\music\music\music.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\music\music\music.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\music\music\music.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  music.vcxproj -> C:\Users\Zauri\source\repos\music\Debug\music.exe
